@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Patapps LoRaWAN</string>
+    <string name="company_name">Patapps</string>
+    <string name="connect">Connecter</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="send">Envoyer</string>
+    <string name="clear">Effacer</string>
+    <string name="help">Aide</string>
+    <string name="hint_message">Message à envoyer...</string>
+    <string name="status_disconnected">Déconnecté</string>
+    <string name="status_connected">Connecté</string>
+    <string name="no_device">Aucun module USB détecté</string>
+    <string name="copyright">© Patapps</string>
+
+    <!-- Help section -->
+    <string name="help_title">Comment ça marche ?</string>
+    <string name="help_description">Cette application reçoit les messages LoRaWAN via USB et déclenche des alertes selon leur contenu.\n\n• Connexion automatique au module USB\n• Les messages reçus s\'affichent dans la console\n• Le niveau d\'alerte est détecté automatiquement\n• Alertes critiques : sonnerie + vibration + flash</string>
+    <string name="help_keywords_title">Mots-clés d\'alerte :</string>
+    <string name="help_keywords">CRITIQUE : ALERT, ALERTE, SOS, URGENT, CRITICAL, EMERGENCY\nATTENTION : WARN, WARNING, ATTENTION\nINFO : INFO, OK, STATUS</string>
+</resources>
